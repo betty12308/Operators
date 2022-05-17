@@ -66,7 +66,7 @@ public class Main {
         //logical && operator allows for 2 statements to be tested to be true
 
         if ((topScore > 90) || (secondTopScore <= 90)) {
-            System.out.println("Either or both conditions are true");
+            System.out.println("Either conditions are true");
         }
 
         //|| is the OR operator, meaning only one condition needs to be true
